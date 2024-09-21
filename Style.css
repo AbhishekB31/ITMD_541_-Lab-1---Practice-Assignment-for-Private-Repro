@@ -1,0 +1,34 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f8ff; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+
+.outer-box {
+    background-color: #87cefa; 
+    padding: 25px;
+    border: 8px solid #4682b4;  
+    border-radius: 10px;
+}
+
+/* Styling the inner box */
+.inner-box {
+    background-color: #ffffff; 
+    padding: 20px;
+    border-radius: 5px;
+    max-width: 400px;
+}
+
+
+.details {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.1em;
+    color: #333; 
+    text-align: center;
+}
